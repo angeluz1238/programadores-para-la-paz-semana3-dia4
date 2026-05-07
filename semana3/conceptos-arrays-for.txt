@@ -1,7 +1,7 @@
 Conceptos básicos de arrays, for y for...of – Semana 3 Día 4
 
 Nombre del estudiante:ANGELUZ MILLAN ALVAREZ
-Fecha:
+Fecha:07 de mayo 2026
 Nombre de la rama:Angeluz_Millan
 
 Responde con tus propias palabras.
