@@ -2,8 +2,13 @@ const propuestas = [
     "Mejorar la comunicación del barrio",
     "Crear una campaña contra la desinformación",
     "Organizar una jornada de convivencia",
-    "Publicar avisos comunitarios claros"
-  ]
+    "Publicar avisos comunitarios claros",
+    "Hacer campañas para cuidar el medio ambiente",
+    "Informar sobre llamadas y enlaces sospechosos",
+    "Ayudar a los adultos mayores a evitar engaños",
+    "Promover actividades culturales en la comunidad"
+
+      ]
   console.log("Listado de propuestas comunitarias con for tradicional:")
 
 for (let i = 0; i < propuestas.length; i = i + 1) {
